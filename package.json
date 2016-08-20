@@ -1,0 +1,19 @@
+{
+  "name": "kata-bank-ocr",
+  "version": "0.0.0",
+  "description": "solve use cases at http://www.codingdojo.org/cgi-bin/index.pl?KataBankOCR",
+  "main": "src",
+  "private": true,
+  "scripts": {
+    "cover": "istanbul cover _mocha -- -R spec",
+    "start": "node src",
+    "test": "mocha"
+  },
+  "author": "dan entous",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "istanbul": "0.4.4",
+    "mocha": "3.0.2"
+  }
+}
