@@ -1,4 +1,6 @@
 # KataBankOCR
+[![Build Status](https://travis-ci.org/dan-nl/kata-bank-ocr.svg?branch=master)](https://travis-ci.org/dan-nl/kata-bank-ocr) [![Coverage Status](https://coveralls.io/repos/github/dan-nl/kata-bank-ocr/badge.svg?branch=master)](https://coveralls.io/github/dan-nl/kata-bank-ocr?branch=master)
+
 http://www.codingdojo.org/cgi-bin/index.pl?KataBankOCR
 
 ## user story 1

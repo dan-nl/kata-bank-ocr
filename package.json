@@ -6,6 +6,7 @@
   "private": true,
   "scripts": {
     "cover": "istanbul cover _mocha -- -R spec",
+    "coveralls": "cat ./coverage/lcov.info | coveralls",
     "start": "node src",
     "test": "mocha"
   },
@@ -13,6 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "chai": "3.5.0",
+    "coveralls": "2.11.12",
     "istanbul": "0.4.4",
     "mocha": "3.0.2"
   }
