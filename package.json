@@ -1,6 +1,6 @@
 {
   "name": "kata-bank-ocr",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "solve use cases at http://www.codingdojo.org/cgi-bin/index.pl?KataBankOCR",
   "main": "src",
   "private": true,
